@@ -1,6 +1,6 @@
 {
   "name": "lft-demo-pkg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "An lft demo package",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "c.git"
+    "url": "git@github.com:syed-ahmad/lft-demo-pkg.git"
   },
   "author": "lft demo pkg User <syed-ahmad@outlook.com> (https://ciconline.wordpress.com/)",
   "license": "ISC",
