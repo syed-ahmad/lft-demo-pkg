@@ -9,6 +9,14 @@
   "keywords": [
     "lft-demo"
   ],
+  "repository": {
+    "type": "git",
+    "url": "c.git"
+  },
   "author": "lft demo pkg User <syed-ahmad@outlook.com> (https://ciconline.wordpress.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-ahmad/lft-demo-pkg.git/issues"
+  },
+  "homepage": "https://github.com/syed-ahmad/lft-demo-pkg"
 }
