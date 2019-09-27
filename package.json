@@ -1,6 +1,6 @@
 {
   "name": "lft-demo-pkg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An lft demo package",
   "main": "index.js",
   "scripts": {
