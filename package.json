@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/syed-ahmad/lft-demo-pkg.git/issues"
   },
-  "homepage": "https://github.com/syed-ahmad/lft-demo-pkg"
+  "homepage": "https://github.com/syed-ahmad/lft-demo-pkg",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
