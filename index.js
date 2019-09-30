@@ -1,1 +1,3 @@
-exports.printMsg = function(msg) { console.log(msg); }
+module.exports.printMsg = function(msg) {
+  console.log(msg);
+};
